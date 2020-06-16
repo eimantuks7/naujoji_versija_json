@@ -2,7 +2,7 @@
     "room": "Anoniminiai Alkoholikai",
     "author": "DELiGHTS",
     "icon": null,
-    "css": "https://raw.githubusercontent.com/eimantuks7/naujoji_versija/master/dizainas",
+    "css": "https://raw.githack.com/eimantuks7/naujoji_versija/master/dizainas",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
